@@ -1,0 +1,3 @@
+npm i nodemon  multer  mongoose  jsonwebtoken  express-formidable  express-async-handler express dotenv cors cookie-parser concurrently bcryptjs
+
+npm i  @paypal/react-paypal-js @reduxjs/toolkit apexcharts flowbite moment react react-apexcharts react-dom react-icons react-redux react-router react-router-dom react-slick react-toastify slick-carousel
